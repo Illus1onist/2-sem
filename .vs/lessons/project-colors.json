@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86af5974-7415-40c3-a624-2cd9bd3401dd": {
+      "ProjectGuid": "86af5974-7415-40c3-a624-2cd9bd3401dd",
+      "DisplayName": "lesson2.1",
+      "ColorIndex": 0
+    },
+    "9f800274-826f-4053-9ad0-121e86d83764": {
+      "ProjectGuid": "9f800274-826f-4053-9ad0-121e86d83764",
+      "DisplayName": "lesson1.3",
+      "ColorIndex": 1
+    },
+    "fb5ff787-9e02-4905-a90f-b622e4b0fa49": {
+      "ProjectGuid": "fb5ff787-9e02-4905-a90f-b622e4b0fa49",
+      "DisplayName": "lesson2.2",
+      "ColorIndex": 2
+    },
+    "d2f7cfc9-a195-46bd-8922-76f21d92578d": {
+      "ProjectGuid": "d2f7cfc9-a195-46bd-8922-76f21d92578d",
+      "DisplayName": "lesson2.3",
+      "ColorIndex": 3
+    },
+    "dd39cd53-f62c-4501-9a32-ee773f6ae18f": {
+      "ProjectGuid": "dd39cd53-f62c-4501-9a32-ee773f6ae18f",
+      "DisplayName": "lesson2.4",
+      "ColorIndex": 4
+    },
+    "74ef31a7-e769-4ce7-88e7-614b997c7e2c": {
+      "ProjectGuid": "74ef31a7-e769-4ce7-88e7-614b997c7e2c",
+      "DisplayName": "lesson2.5",
+      "ColorIndex": 5
+    },
+    "7cdcaeaa-23f0-40a4-ac5e-50f8db0579f4": {
+      "ProjectGuid": "7cdcaeaa-23f0-40a4-ac5e-50f8db0579f4",
+      "DisplayName": "lesson2.6",
+      "ColorIndex": 6
+    },
+    "153ebbd6-4b70-4fbc-94cf-06544659901d": {
+      "ProjectGuid": "153ebbd6-4b70-4fbc-94cf-06544659901d",
+      "DisplayName": "lesson2.7",
+      "ColorIndex": 7
+    },
+    "b9eb1ec1-7bf1-486a-aa8e-0a2b2c9f4172": {
+      "ProjectGuid": "b9eb1ec1-7bf1-486a-aa8e-0a2b2c9f4172",
+      "DisplayName": "lesson2.8",
+      "ColorIndex": 8
+    },
+    "bbe11667-2e51-42d2-af8b-5752685b8cc0": {
+      "ProjectGuid": "bbe11667-2e51-42d2-af8b-5752685b8cc0",
+      "DisplayName": "lesson2.9",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
