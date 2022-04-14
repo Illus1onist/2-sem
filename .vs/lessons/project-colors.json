@@ -50,7 +50,62 @@
       "ProjectGuid": "bbe11667-2e51-42d2-af8b-5752685b8cc0",
       "DisplayName": "lesson2.9",
       "ColorIndex": 9
+    },
+    "43c73a43-589c-441a-93fa-82894175ac99": {
+      "ProjectGuid": "43c73a43-589c-441a-93fa-82894175ac99",
+      "DisplayName": "lesson3.1",
+      "ColorIndex": 10
+    },
+    "0301e356-6b2e-42ae-a7c6-ee27a2c7962d": {
+      "ProjectGuid": "0301e356-6b2e-42ae-a7c6-ee27a2c7962d",
+      "DisplayName": "lesson3.2",
+      "ColorIndex": 11
+    },
+    "61803f4d-85b1-4d17-a489-609288a9abfb": {
+      "ProjectGuid": "61803f4d-85b1-4d17-a489-609288a9abfb",
+      "DisplayName": "lesson3.3",
+      "ColorIndex": 12
+    },
+    "6963b6c9-48c5-4758-8c86-a27b1d5b2d6e": {
+      "ProjectGuid": "6963b6c9-48c5-4758-8c86-a27b1d5b2d6e",
+      "DisplayName": "lesson4.1",
+      "ColorIndex": 13
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "3a7fe074-cded-4627-b016-65bef9b02d09": {
+      "ProjectGuid": "3a7fe074-cded-4627-b016-65bef9b02d09",
+      "DisplayName": "lesson4.2",
+      "ColorIndex": 14
+    },
+    "aa44705f-d847-4d80-b607-329fa5149a9d": {
+      "ProjectGuid": "aa44705f-d847-4d80-b607-329fa5149a9d",
+      "DisplayName": "lesson5.1",
+      "ColorIndex": 15
+    },
+    "6fefb111-a8cc-43e3-87fd-b40074db3cde": {
+      "ProjectGuid": "6fefb111-a8cc-43e3-87fd-b40074db3cde",
+      "DisplayName": "5.2",
+      "ColorIndex": 0
+    },
+    "f60ca3d6-842d-4b54-a520-873d0bb63482": {
+      "ProjectGuid": "f60ca3d6-842d-4b54-a520-873d0bb63482",
+      "DisplayName": "TelBook",
+      "ColorIndex": 1
+    },
+    "f0eeae1e-8514-4acd-a537-a54e8c7ec3f1": {
+      "ProjectGuid": "f0eeae1e-8514-4acd-a537-a54e8c7ec3f1",
+      "DisplayName": "Magazinbezpricola",
+      "ColorIndex": 2
+    },
+    "9ca2a9b8-f939-49d4-bffb-6ee563c632e7": {
+      "ProjectGuid": "9ca2a9b8-f939-49d4-bffb-6ee563c632e7",
+      "DisplayName": "7Magazinspricolom",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 4
 }

@@ -56,15 +56,15 @@ double FMAmethod(double const psi[], double pdf[], double const dv, unsigned con
 int main()
 {
     int diap = 200;
-    long int const N = 10000;
+    long int const N = 1000;
     //-100 - +100
     double dv = double(diap) / N;
     double psi[N], pdf[N];
-    double T = 2.2452549;
+    double T = 20;
     for (int i = 0; i < N; i++)
     {
-        psi[i] = abs((i - floor(N / 2))*dv);
-        pdf[i] = pow((d_e), -((i - floor(N / 2))*dv)* ((i - floor(N / 2)) * dv) / T);
+        psi[i] = (i - floor(N / 2)+3)*dv;
+        pdf[i] = pow((d_e), -((i - floor(N / 2)+3)*dv)* ((i - floor(N / 2)+3) * dv) * T);
     }
     cout << fixed << setprecision(11) << RecursiveDoublingSum (psi, pdf, dv, 0, N - 1)*dv << endl;
     cout << fixed << setprecision(11) << DoublingStep (psi, pdf, dv, 0, N - 1) * dv << endl;

@@ -12,7 +12,7 @@ void heapify(int arr[], int n, int i)
     int l = 2 * i + 1; // левый = 2*i + 1
     int r = 2 * i + 2; // правый = 2*i + 2
 
- // Если левый дочерний элемент больше корня
+    // Если левый дочерний элемент больше корня
     if (l < n && arr[l] > arr[largest])
         largest = l;
 
@@ -59,7 +59,7 @@ void printArray(int arr[], int n)
 // Управляющая программа
 int main()
 {
-    int arr[] = { 12, 11, 13, 5, 6, 7 };
+    int arr[] = { 3, 10, 17, 2, 6, 6 };
     int n = sizeof(arr) / sizeof(arr[0]);
 
     heapSort(arr, n);
